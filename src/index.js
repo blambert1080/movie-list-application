@@ -1,1 +1,1 @@
-console.log("movieList")
+console.log('movieList');
